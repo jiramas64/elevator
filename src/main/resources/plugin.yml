@@ -1,0 +1,4 @@
+name: elevator
+version: '${project.version}'
+main: com.github.jiramas64.elevator.Elevator
+api-version: '1.20'

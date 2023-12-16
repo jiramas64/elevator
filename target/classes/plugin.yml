@@ -1,0 +1,4 @@
+name: elevator
+version: '1.20.1'
+main: com.github.jiramas64.elevator.Elevator
+api-version: '1.20'
